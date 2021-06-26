@@ -1,0 +1,4 @@
+myenv/
+database.ini
+*.csv
+*.html
